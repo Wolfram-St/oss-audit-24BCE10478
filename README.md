@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* Name: Manas Srivastava
-* Registration Number: 24BCE11098
+* Name: Kinshuk Sharma
+* Registration Number: 24BCE10478
 
 ## 📌 Project Overview
 
